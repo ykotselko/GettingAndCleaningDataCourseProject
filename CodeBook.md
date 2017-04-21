@@ -6,7 +6,7 @@ The result tidy data set was obtined by processing of initial "Samsung" data set
 
 
 | Variable name  | Variable Label |  Data type | Value Label Range |
-| --------------  ---------------   -------     -------------
+| -------------- | -------------- | ---------- | ----------------- |
 | Activity       | Activity       |  Ordinal   | "LAYING" |
 |                |                |            | "SITTING" |
 |                |                |            | "STANDING" |
